@@ -29,4 +29,4 @@ With the 2 most profitable segments, the next challenge is to forecast the sales
 The final best fit model is used to forecast the sales/demand for next 6 months using this model. The model is tested to predict the last initially separate out data of the last 6 months values from the dataset, after aggregating the transaction level data into the monthly data. The results is then checked against the seperated 6 months forecast using the out-of-sample figures.
 
 
-<b>Thank you for time! Visit Again for More Exciting Machine Learning and Data Science Projects.<b>
+<h4>Thank you for time! Visit Again for More Exciting Machine Learning and Data Science Projects.<h4>

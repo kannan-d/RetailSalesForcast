@@ -27,5 +27,6 @@ The data has the transaction level data, where each row represents a particular 
 With the 2 most profitable segments, the next challenge is to forecast the sales and quantity for the next 6 months. Data Smoothening is done before classical decomposition and auto ARIMA is performed for forecasting.
 <h5>Model evaluation:</h5>
 The final best fit model is used to forecast the sales/demand for next 6 months using this model. The model is tested to predict the last initially separate out data of the last 6 months values from the dataset, after aggregating the transaction level data into the monthly data. The results is then checked against the seperated 6 months forecast using the out-of-sample figures.
-<br/>
+
+
 <b>Thank you for time! Visit Again for More Exciting Machine Learning and Data Science Projects.<b>
